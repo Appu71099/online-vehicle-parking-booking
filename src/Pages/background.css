@@ -1,0 +1,17 @@
+.disp{
+    background-image: url("/public/images/BgImg.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.card{
+    background-color:rgba(82,78,78,0.7) !important;
+    color:white !important;
+    opacity: 0.9 !important;
+}
+
+.list-group-item{
+    background-color:#524e4e !important;
+    color:white !important;
+  }
